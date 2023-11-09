@@ -1,10 +1,10 @@
 [
   {
     "producto": "PASTEL",
-    "medida": "50"
+    "descripcion": "Dulce y delicioso"
   },
   {
-    "producto": "MASA",
-    "medida": "50" 
+    "producto": "PAN",
+    "descripcion": "Seco y salado" 
   }
 ]
