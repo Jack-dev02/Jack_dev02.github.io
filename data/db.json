@@ -1,5 +1,4 @@
 [
-    "CHAROLA",
    
     {
         "producto": "855 MAR",
@@ -117,8 +116,7 @@
         "peso": "143 - 145", 
         "espesor": "147 - 150"
       },
-  
-     "PLATOS",
+
      
     {
         "producto": "9D",
@@ -193,7 +191,6 @@
         "espesor": "79 - 82"
       },
   
-     "CONTENEDORES",
 
     {
         "producto": "7X7",
