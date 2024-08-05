@@ -155,10 +155,20 @@
         "espesor": "90 - 93"
       },
     {
-        "producto": "PH8 BIO",
+        "producto": "PH8 BIO EXT 3",
         "medida": "52", 
         "peso": "90 - 93", 
         "espesor": "90 - 93"
+      },
+    {  "producto": "PH8 EXT 2",
+        "medida": "52", 
+        "peso": "90 - 93", 
+        "espesor": "93 - 96"  
+      },
+    {  "producto": "PH8 BIO EXT 2",
+        "medida": "52", 
+        "peso": "90 - 93", 
+        "espesor": "93 - 96"  
       },
     {
         "producto": "006",
@@ -216,6 +226,18 @@
         "medida": "50", 
         "peso": "95 - 98", 
         "espesor": "90 - 93"
+      },
+    {
+        "producto": "9X9 EXT 2",
+        "medida": "46", 
+        "peso": "95 - 98",
+        "espesor": "95 - 98"
+      },
+     {
+        "producto": "9X9 BIO EXT 2",
+        "medida": "46", 
+        "peso": "95 - 98",
+        "espesor": "95 - 98"
       },
     {
         "producto": "9X9",
